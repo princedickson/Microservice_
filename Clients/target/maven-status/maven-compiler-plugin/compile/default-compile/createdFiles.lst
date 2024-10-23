@@ -1,0 +1,4 @@
+com/explicit/client/fraud/FraudClient.class
+com/explicit/client/fraud/FraudCheckResponse.class
+com/explicit/client/fraud/notification/NotificationRequest.class
+com/explicit/client/fraud/notification/NotificationClient.class
